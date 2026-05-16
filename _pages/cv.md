@@ -17,7 +17,7 @@ Education
 
 Research experience
 ======
-* 2023 - 2026: Mechanisms of anoikis resistance in breast cancer metastasis IISc
+* <b>Mechanisms of anoikis resistance in breast cancer metastasis IISc</b>
   * Studied how AMPK-NUAK axis affects cell fate pathways (apoptosis and autophagy) and identified metabolic signature that supports survival of anoikis-resistant cancer cells
   * Formulated an ODE-based deterministic and mechanistic model of Akt–AMPK–ERK signaling to predict cell fate under matrix deprivation and identified that Akt dominates over AMPK and ERK to decide the cell fate
   * Formulated a mathematical model that captured attachment-detachment signaling network and identified several signaling and metabolic changes that take place upon detachment.
