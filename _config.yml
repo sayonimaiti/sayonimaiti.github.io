@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Sayoni Maiti"
 title_separator          : "-"
 name                     : "Sayoni Maiti"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : "Scientist/Engineer"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://sayonimaiti.github.io"
 baseurl                  : "" 
 repository               : "sayonimaiti/sayonimaiti.github.io"
@@ -25,16 +25,16 @@ author:
   avatar           : "sayoni.png"
   name             : "Sayoni Maiti"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD Student at Indian Institute of Science"
+  location         : "Bengaluru, India"
+  employer         : "Indian Institute of Science"
   uri              : # URL
   email            : "sayonimaiti@iisc.ac.in" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=aeJl-H4AAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
