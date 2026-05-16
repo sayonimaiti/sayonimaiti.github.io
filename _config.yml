@@ -13,7 +13,7 @@ title                    : "Sayoni Maiti"
 title_separator          : "-"
 name                     : "Sayoni Maiti"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      :"https://sayonimaiti.github.io"
+url                      : "https://sayonimaiti.github.io"
 baseurl                  : "" 
 repository               : "sayonimaiti/sayonimaiti.github.io"
 
