@@ -11,5 +11,5 @@ I am a PhD student at [Indian Institute of Science](https://iisc.ac.in/). I work
 
 Areas of Interest
 ======
-Mathematical Oncology, Systems Biology, Signaling-metabolic network modeling, cancer metabolism, Metastasis
+Mathematical Oncology, Systems Biology, Signaling-metabolic network modeling, cancer metabolism, Metastasis, Anoikis resistance
 
